@@ -6,7 +6,7 @@ var p string = "cat"
 
 func main() {
 	var x string
-	x = "Hello World"
+	x = "Hello World TEST"
 	fmt.Println(x)
 	x = x + " second"
 	fmt.Println(x)
